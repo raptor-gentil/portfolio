@@ -12,7 +12,7 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 
 ## Mes builds :
 
-### Scène d'hélicoptère
+### __Scène d'hélicoptère__
 
 [Hélico - Vue 1](my-build/heli_scene1.png)
 
