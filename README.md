@@ -9,6 +9,7 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 * Building
 * LuaU
 * UI Design
+* script json serveur dayz
 
 ## Mes builds :
 
