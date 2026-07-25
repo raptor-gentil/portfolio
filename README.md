@@ -1,15 +1,15 @@
 # ko0v
 
-## À propos
+## À propos :
 
 Développeur et builder Roblox et dayz français
 
-### Compétences
+### Compétences :
 - Building
 - LuaU
 - UI Design
 
-## Mes builds
+## Mes builds :
 
 ### scene helico
 
@@ -20,8 +20,8 @@ Développeur et builder Roblox et dayz français
 Mise en scene fait avec roblox studio
 ### SCP Foundation
 
-![Entrée zone de conf](my-build/zone-conf1.png)
-![Entrée zone de conf vidéo](my-build/zone-conf2.mp4)
+![Entrée zone de conf](my-build/zone_conf1.png)
+![Entrée zone de conf vidéo](my-build/zone_conf2.mp4)
 
 build pour serveur RP SCP
 
