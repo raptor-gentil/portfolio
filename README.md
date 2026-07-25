@@ -1,29 +1,33 @@
 # ko0v
 
-## À propos :
+## À propos
 
-Développeur et builder Roblox et dayz français
+Développeur et builder **Roblox** français, avec également de l'expérience sur **DayZ**.
 
 ### Compétences :
-- Building
-- LuaU
-- UI Design
+
+* Building
+* LuaU
+* UI Design
 
 ## Mes builds :
 
-### scene helico
+### Scène d'hélicoptère
 
-![Helico page 1](my-build/heli_scene1.png)
-![Helico page 2](my-build/heli_scene2.png)
-![Helico page 3](my-build/heli_scene3.png)
+[Hélico - Vue 1](my-build/heli_scene1.png)
+[Hélico - Vue 2](my-build/heli_scene2.png)
+[Hélico - Vue 3](my-build/heli_scene3.png)
 
-Mise en scene fait avec roblox studio
+Mise en scène réalisée avec **Roblox Studio**
+
+---
+
 ### SCP Foundation
 
-![Entrée zone de conf](my-build/zone_conf1.png)
-![Entrée zone de conf vidéo](my-build/zone_conf2.mp4)
+[Entrée de la zone de confinement](my-build/zone_conf1.png)
 
-build pour serveur RP SCP
+Build réalisé pour un serveur RP SCP réalisée avec **Roblox Studio**
 
-## Me contacter :
-Discord : ko0v
+## Me contacter
+
+* **Discord :** `ko0v`
