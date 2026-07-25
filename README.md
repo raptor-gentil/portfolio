@@ -22,7 +22,6 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 
 Mise en scène réalisée avec **Roblox Studio**
 
----
 
 ### SCP Foundation
 
@@ -30,6 +29,7 @@ Mise en scène réalisée avec **Roblox Studio**
 
 Build réalisé pour un serveur RP SCP réalisée avec **Roblox Studio**
 
+---
 ## Me contacter
 
 * **Discord :** `ko0v`
