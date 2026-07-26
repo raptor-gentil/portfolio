@@ -3,6 +3,7 @@
 ## À propos
 
 Développeur et builder **Roblox** français, avec également de l'expérience sur **DayZ**.
+![ko0v](members/ko0v/ko0v.png)
 
 ### Compétences :
 
