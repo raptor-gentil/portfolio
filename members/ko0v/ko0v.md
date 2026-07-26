@@ -15,7 +15,7 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 
 ### Scène d'hélicoptère
 
-| Membre | Description |
+| Description | image |
 |------------------|---------|
 | Mise en scène réalisée avec **Roblox Studio** | [Vue 1](my-build/heli_scene1.png) |
 | | [Vue 2](my-build/heli_scene2.png) |
@@ -29,10 +29,14 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 
 
 ### SCP Foundation
+| Description | image |
+|------------------|---------|
+| Build réalisé pour un serveur RP SCP réalisée avec **Roblox Studio** | [Vue 1](my-build/zone_conf1.png) |
+| | [Soon](my-build/heli_scene2.png) |
+| | [Soon](my-build/heli_scene3.png) |
 
-[Entrée de la zone de confinement](my-build/zone_conf1.png)
 
-Build réalisé pour un serveur RP SCP réalisée avec **Roblox Studio**
+
 
 ---
 ## Me contacter
