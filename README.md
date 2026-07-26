@@ -11,5 +11,5 @@ Bienvenue sur le portfolio de notre équipe de build Roblox.
 
 | Membre | Description |
 |--------|-------------|
-| [ko0v](members/ko0v.md) | Voir créations |
-| [sasaku](members/sasaku.md) | Voir créations |
+| [ko0v](members/ko0v/ko0v.md) | Voir créations |
+| [sasaku](members/sasaku/sasaku.md) | Voir créations |
