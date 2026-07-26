@@ -17,9 +17,9 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 
 | Description | image |
 |------------------|---------|
-| Mise en scène réalisée avec **Roblox Studio** | [Vue 1](my-build/heli_scene1.png) |
-| | [Vue 2](my-build/heli_scene2.png) |
-| | [Vue 3](my-build/heli_scene3.png) |
+| Mise en scène réalisée avec **Roblox Studio** | [Vue 1](heli_scene1.png) |
+| | [Vue 2](heli_scene2.png) |
+| | [Vue 3](heli_scene3.png) |
 
 
 
@@ -31,9 +31,9 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 ### SCP Foundation
 | Description | image |
 |------------------|---------|
-| Build réalisé pour un serveur RP SCP réalisée avec **Roblox Studio** | [Vue 1](my-build/zone_conf1.png) |
-| | [Soon](my-build/heli_scene2.png) |
-| | [Soon](my-build/heli_scene3.png) |
+| Build réalisé pour un serveur RP SCP réalisée avec **Roblox Studio** | [Vue 1](zone_conf1.png) |
+| | [Soon](heli_scene2.png) |
+| | [Soon](heli_scene3.png) |
 
 
 
