@@ -12,9 +12,9 @@ Je me débrouille plutôt bien en build et je continue d'apprendre. Actuellement
 ## Mes builds :
 
 ### Projets 
-| Description | image |
+| Description | Image |
 |------------------|---------|
-| Création personnelle | [Vue 1](image1.png) |
+| Création personnelle | [Vue 1](image.png) |
 | Création personnelle | [Vue 2](image2.png) |
 | Création réalisée avec l'aide de **ko0v** | [Vue 3](image3.png) |
 
