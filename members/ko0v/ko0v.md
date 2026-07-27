@@ -31,7 +31,7 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 | Description | image |
 |------------------|---------|
 | Build d'un réacteur nucléaire proto-industrielle réalisée avec **Roblox Studio** | [Vue 1](nuke1.png) |
-| | [Soon](nuke2.png) |
+| | [Vue 2](nuke2.png) |
 
 
 ---
