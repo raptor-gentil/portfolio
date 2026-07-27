@@ -30,9 +30,8 @@ Développeur et builder **Roblox** français, avec également de l'expérience s
 ### nuclear power plant proto-industry
 | Description | image |
 |------------------|---------|
-| Build d'un réacteur nucléaire proto-industrielle réalisée avec **Roblox Studio** | [Vue 1](zone_conf1.png) |
-| | [Soon](heli_scene2.png) |
-| | [Soon](heli_scene3.png) |
+| Build d'un réacteur nucléaire proto-industrielle réalisée avec **Roblox Studio** | [Vue 1](nuke1.png) |
+| | [Soon](nuke2.png) |
 
 
 ---
