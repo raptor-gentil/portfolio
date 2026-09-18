@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portefolio je touche un peut à tout les truc concernant roblox
 
-![ko0v](ko0v.png)
+![ko0v](pictures/ko0v.png)
 
 ### Compétences :
 
