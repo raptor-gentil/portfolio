@@ -1,15 +1,4 @@
-# pas de nom pour l'instant
+# Portfolio Ko0v
 
-Bienvenue sur le portfolio de notre équipe de build Roblox.
+Bienvenue sur mon portefolio je touche un peut à tout les truc concernant roblox
 
-## Membres
-
-- **ko0v** – Builder / Pose Artist
-- **sasaku** – Builder / Modeler
-
-## Portfolio
-
-| Membre | Description |
-|--------|-------------|
-| [ko0v](members/ko0v/ko0v.md) | Voir créations |
-| [sasaku](members/sasaku/sasaku.md) | Voir créations |
