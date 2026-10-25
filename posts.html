@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Projets, ko0v</title>
+        <meta name="description" content="Bâtiments, scènes, assets et UGC réalisés par ko0v sur Roblox.">
+        <link rel="icon" href="favicon.svg" type="image/svg+xml">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="wrap">
+                <a class="brand" href="index.html">
+                    <img src="favicon.svg" alt="">ko0v</a>
+                    <nav aria-label="Navigation principale">
+                        <a href="index.html">Accueil</a>
+                        <a href="posts.html" aria-current="page">Projets</a><a href="index.html#about">À propos</a>
+                        <a href="index.html#contact">Contact</a>
+                    </nav>
+                </div>
+            </header>
+    <main>
+        <div class="wrap" style="padding-top:3rem;padding-bottom:3rem">
+            <h1>Projets</h1>
+            <p class="lead">Bâtiments, scènes, assets et UGC réalisés sur Roblox. Clique sur un projet pour voir toutes les images.</p>
+            <div class="filters" role="group" aria-label="Filtrer par catégorie">
+                <button aria-pressed="true" data-f="all">Tous</button>
+                <button aria-pressed="false" data-f="building">Building</button>
+                <button aria-pressed="false" data-f="scene">Scène</button>
+                <button aria-pressed="false" data-f="asset">Assets</button>
+                <button aria-pressed="false" data-f="ugc">UGC</button>
+            </div>
+            <div class="cards" id="grid">
+                <button class="tile" data-c="building" data-t="Bâtiments pour le Site 41" data-i="bat01,bat02,bat03">
+                    <img src="images/bat01.png" alt="">
+                    <div>
+                        <small>Building, 2026</small>
+                        <h3>Bâtiments pour le Site 41</h3>
+                        <p>Bâtiments construits pour le Site 41.</p>
+                    </div>
+                </button>
+
+                <button class="tile" data-c="scene" data-t="Scène hélicoptère" data-i="heli01,heli02">
+                    <img src="images/heli01.png" alt="">
+                    <div>
+                        <small>Mise en scène, 2026</small>
+                        <h3>Scène hélicoptère</h3>
+                        <p>Petite mise en scène pour l'ARTME du Site 41.</p>
+                    </div>
+                </button>
+
+                <button class="tile" data-c="asset" data-t="Assets" data-i="asset01,asset02,asset03">
+                    <img src="images/asset01.png" alt="">
+                    <div>
+                        <small>Assets, 2026</small>
+                        <h3>Assets</h3>
+                        <p>Assets réalisés pour m'entraîner.</p>
+                    </div>
+                </button>
+
+                <button class="tile" data-c="ugc" data-t="UGC" data-i="ugc01,ugc02,ugc03,ugc04,ugc05,ugc06,ugc07,ugc08,ugc09">
+                    <img src="images/ugc01.png" alt="">
+                    <div>
+                        <small>UGC, 2026</small>
+                        <h3>UGC</h3>
+                        <p>UGC réalisés pour m'entraîner.</p>
+                    </div>
+                </button>
+            </div>
+            <p style="margin-top:1.5rem">Projets du Site 41 : 
+                <a href="https://discord.gg/9dFE5Gj7Hh" target="_blank" rel="noopener">serveur Discord du Site 41</a>
+            </p>
+        </div>
+        <dialog id="v" aria-label="Visionneuse d'images">
+            <img id="vi" alt="">
+            <div class="vbar">
+                <strong id="vt"></strong>
+                <span id="vc"></span>
+                <span>
+                    <button class="btn alt" id="vp" type="button">Précédent</button>
+                    <button class="btn" id="vn" type="button">Suivant</button>
+                    <button class="btn alt" id="vx" type="button">Fermer</button>
+                </span>
+            </div>
+        </dialog>
+    <script>
+        var tiles=document.querySelectorAll(".tile"),fb=document.querySelectorAll(".filters button"),v=document.getElementById("v"),vi=document.getElementById("vi"),imgs=[],n=0;
+        fb.forEach(function(b){b.onclick=function(){fb.forEach(function(x){x.setAttribute("aria-pressed",x===b)});tiles.forEach(function(t){t.hidden=!(b.dataset.f==="all"||t.dataset.c===b.dataset.f)})}});
+        function show(){vi.src="assets/images/"+imgs[n]+".png";vi.alt=document.getElementById("vt").textContent+", image "+(n+1);document.getElementById("vc").textContent=(n+1)+" / "+imgs.length}
+        tiles.forEach(function(t){t.onclick=function(){imgs=t.dataset.i.split(",");n=0;document.getElementById("vt").textContent=t.dataset.t;show();v.showModal()}});
+        document.getElementById("vn").onclick=function(){n=(n+1)%imgs.length;show()};
+        document.getElementById("vp").onclick=function(){n=(n-1+imgs.length)%imgs.length;show()};
+        document.getElementById("vx").onclick=function(){v.close()};
+        v.addEventListener("click",function(e){if(e.target===v)v.close()});
+    </script>
+    </main>
+    <footer><div class="wrap"><span>ko0v &copy; 2026</span><span><a href="rgpd.html">Données personnelles (RGPD)</a> &nbsp; <a href="cgu.html">Conditions d'utilisation</a></span></div></footer>
+    </body>
+</html>
